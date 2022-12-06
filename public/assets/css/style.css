@@ -1,0 +1,62 @@
+.register {
+    margin-top: 80px;  
+}
+
+.login{
+    margin-top: 150px;
+}
+
+#oop{
+    padding-left: 3.4cm !important;
+    padding-right: 3.4cm !important;
+}
+
+.form-control{
+    padding-right: 2.5cm;
+}
+
+.navbar-nav{
+    background-color: transparent;
+}
+
+.dashboard{
+    background-color: rgba(250, 250, 250, 0.7);
+    padding: 30px 30px 30px 30px;
+    margin-top: 25px;
+    border: 1px;
+    border-radius: 10px;
+}
+
+.create{
+    background-color: rgba(250, 250, 250, 0.7);
+    padding: 30px 30px 30px 30px;
+    margin-top: 50px;
+}
+
+.data{
+    background-color: rgba(250, 250, 250, 0.7);
+    padding: 30px 30px 30px 30px;
+    margin-top: 25px;
+    border-radius: 15px;
+}
+
+.edit{
+    background-color: rgba(250, 250, 250, 0.7);
+    padding: 30px 30px 30px 30px;
+    margin-top: 50px;
+}
+
+
+body{
+    background-image: url(https://iidany.org/wp-content/uploads/2022/03/5e5d34fd5febe1a2d9743931fba90133.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.abc{
+    background-color: rgba(250, 250, 250, 0.7);
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
